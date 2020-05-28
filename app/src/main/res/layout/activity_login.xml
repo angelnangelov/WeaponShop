@@ -52,12 +52,13 @@
             android:layout_gravity="center"
             android:layout_marginTop="15dp"
             android:background="@drawable/edit"
-            android:drawableLeft="@drawable/ic_person"
+            android:drawableLeft="@drawable/ic_key"
             android:drawablePadding="10dp"
             android:hint="password"
             android:inputType="textPassword"
             android:padding="20dp"
             android:textColorHint="#013220" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
